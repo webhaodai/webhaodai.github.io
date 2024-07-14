@@ -1,0 +1,27 @@
+:root {
+  --primaryTextColor: #232e35;
+  --secondaryTextColor: #656d72;
+
+  --borderColor: #f1f1f1;
+  --lineColor: #d9d9d9;
+
+  --primaryBackgroundColor: #fff;
+  --secondayBackgroundColor: #fbfbfb;
+  =-thirdbackgroundcolor: #f5f3fe;
+
+  --primaryIconColor: #7374f1;
+  --primaryIconColorHover: #5d51e8;
+
+  --sectionPadding: 6rem 0;
+
+  --itemBorderRadius: 0.7rem;
+}
+
+ghfaFSAHSVT4645^&&%$#{{:hkjGJH
+
+https://sapiens.ui8.net/8m2c1s4
+https://iconmonstr.com/?s=link
+
+https://formspree.io
+buatwebsite011@gmail.com
+hgvsagys5g7w^^%AH^^A*H
